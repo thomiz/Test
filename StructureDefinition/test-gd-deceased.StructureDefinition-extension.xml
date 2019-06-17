@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StructureDefinition xmlns="http://hl7.org/fhir">
   <id value="test-gd-deceased" />
-  <url value="http://ehelse.no/fhir/StructureDefinition/-test-gd-deceased" />
+  <url value="http://ehelse.no/fhir/StructureDefinition/test-gd-deceased" />
   <version value="0.1" />
   <name value="test-gd-deceased" />
   <status value="draft" />
