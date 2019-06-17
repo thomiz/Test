@@ -12,7 +12,7 @@
 			</valueCodeableConcept>
 		</extension>
 	</extension>
-	<extension url="http://ehelse.no/fhir/StructureDefinition/gd-deceased">
+	<extension url="http://ehelse.no/fhir/StructureDefinition/test-gd-deceased">
 		<extension url="deceasedDate">
 			<valueDate value="1992"/>
 		</extension>
