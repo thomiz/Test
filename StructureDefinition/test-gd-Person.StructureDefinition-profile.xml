@@ -105,7 +105,7 @@
       <alias value="Dødsfall" />
       <type>
         <code value="Extension" />
-        <profile value="http://ehelse.no/fhir/StructureDefinition/gd-deceased" />
+        <profile value="http://ehelse.no/fhir/StructureDefinition/test-gd-deceased" />
       </type>
       <mustSupport value="true" />
     </element>
