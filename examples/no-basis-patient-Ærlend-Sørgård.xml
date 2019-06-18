@@ -12,7 +12,7 @@
 			</valueCodeableConcept>
 		</extension>
 	</extension>
-	<extension url="http://hl7.no/fhir/StructureDefinition/no-basis-bydel">
+	<extension url="http://hl7.no/fhir/StructureDefinition/no-basis-urban-district">
 		<valueCoding>
 			<system value="urn:uri:2.16.578.1.12.4.1.1.3403"/>
 			<code value="030101"/>
