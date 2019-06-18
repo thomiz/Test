@@ -14,7 +14,7 @@
 	</extension>
 	<extension url="http://hl7.no/fhir/StructureDefinition/no-basis-urban-district">
 		<valueCoding>
-			<system value="urn:uri:2.16.578.1.12.4.1.1.3403"/>
+			<system value="urn:oid:2.16.578.1.12.4.1.1.3403"/>
 			<code value="030101"/>
 			<display value="Gamle Oslo"/>
 		</valueCoding>
